@@ -1,6 +1,6 @@
 # Supply Chain Analytics Portfolio
 
-SQL Server · Power BI · Python · Excel
+### SQL Server · Power BI · Python · Excel
 
 ---
 
