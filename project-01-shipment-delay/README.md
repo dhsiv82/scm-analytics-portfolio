@@ -10,8 +10,10 @@ root causes, and business impact.
 - Power BI (dashboard — coming soon)
 
 ## Dataset
-DataCo Global Supply Chain Dataset — Kaggle
-180,519 rows · Orders, shipments, products, customers
+**Refined DataCo Supply Chain & Geospatial Dataset**
+Source: Kaggle — aaumgupta
+180,519 rows · Orders, shipments, products, customers, geospatial data
+https://www.kaggle.com/datasets/aaumgupta/refined-dataco-supply-chain-geospatial-dataset
 
 ## Key Findings
 - 54% of all shipments across the dataset were delivered late
