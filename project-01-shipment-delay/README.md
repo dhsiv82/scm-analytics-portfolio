@@ -7,7 +7,7 @@ root causes, and business impact.
 
 ## Tools
 - SQL Server (SSMS)
-- Power BI (dashboard — coming soon)
+- Power BI (dashboard)
 
 ## Dataset
 **Refined DataCo Supply Chain & Geospatial Dataset**
