@@ -28,8 +28,7 @@ https://www.kaggle.com/datasets/aaumgupta/refined-dataco-supply-chain-geospatial
 - Golf Bags & Carts had the highest category-level
   late rate at 68%
 
-## Dashboard
-![Shipment Delay Dashboard](dashboard_01_screen.png)
+
 
 ## Business Recommendation 
 Reset First Class shipping SLA windows company-wide.
