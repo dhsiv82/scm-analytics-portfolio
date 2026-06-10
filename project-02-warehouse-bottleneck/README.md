@@ -46,7 +46,7 @@ may be built on a flawed baseline.
 ## Queries
 | File | Description |
 |------|-------------|
-| 01_regional_late_rate.sql | Late rate and order volume across all 23 regions |
-| 02_late_rate_by_region_and_mode.sql | Late rate by region and shipping mode combined |
-| 03_regional_profit.sql | Total profit and late rate by region |
-| 04_profit_by_region_and_mode.sql | Profit breakdown by region and shipping mode |
+| 1_regional_late_rate.sql | Late rate and order volume across all 23 regions |
+| 2_late_rate_by_region_and_mode.sql | Late rate by region and shipping mode combined |
+| 3_regional_profit.sql | Total profit and late rate by region |
+| 4_profit_by_region_and_mode.sql | Profit breakdown by region and shipping mode |
