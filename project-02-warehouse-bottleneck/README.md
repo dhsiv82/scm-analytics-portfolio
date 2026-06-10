@@ -34,7 +34,7 @@ https://www.kaggle.com/datasets/aaumgupta/refined-dataco-supply-chain-geospatial
   potential data quality issue affecting all performance baselines
 
 ## Dashboard
-![Regional Performance Dashboard](dashboard_screenshot.png)
+![Regional Performance Dashboard](dashboard_02_screen.png)
 
 ## Business Recommendation
 Discontinue or reprice First Class shipping globally. The mode
